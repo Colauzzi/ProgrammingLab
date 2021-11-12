@@ -1,2 +1,2 @@
-language = "bash"
-run = "/bin/bash"
+$ python hello.py
+Hello world!
